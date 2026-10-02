@@ -1,1 +1,10 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.comisariasalaverry.twa",
+    "sha256_cert_fingerprints": [
+      "22:4A:4A:C3:59:F0:24:B8:EF:D5:29:6B:4A:CA:D7:DB:40:02:46:FA:B5:98:AC:A6:04:84:7D:D7:C8:5C:2A:31"
+    ]
+  }
+}]
